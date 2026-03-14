@@ -1,0 +1,12 @@
+# 环境变量（含 API Key，切勿提交）
+.env
+
+# Expo / Node
+node_modules/
+.expo/
+dist/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
